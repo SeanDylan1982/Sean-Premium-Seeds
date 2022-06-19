@@ -1,2 +1,2 @@
 # Sean-Premium-Seeds
-Sean Premium Seeds eCommerce Website
+Premium-Seeds-eCommerce-Website
